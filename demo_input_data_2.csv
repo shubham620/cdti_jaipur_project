@@ -1,0 +1,23 @@
+id,text,source,time,location
+1,Crowd gathering near City Mall entrance,social,10:05:00 AM,"City Mall, Jaipur"
+2,Large group of people reported at City Mall,social,10:07:00 AM,"City Mall, Jaipur"
+3,Police control room received call about crowd at City Mall,emergency,10:10:00 AM,"City Mall, Jaipur"
+4,Smoke and fire seen near railway station platform 2,social,10:15:00 AM,"Railway Station, Jaipur"
+5,Heavy smoke visible near Jaipur railway station,social,10:16:00 AM,"Railway Station, Jaipur"
+6,Fire brigade dispatched to railway station,official,10:18:00 AM,"Railway Station, Jaipur"
+7,Message circulating about bomb blast at bus stand,social,10:25:00 AM,"Bus Stand, Jaipur"
+8,No confirmation of bomb blast at bus stand,news,10:28:00 AM,"Bus Stand, Jaipur"
+9,Police deny blast rumors at Jaipur bus stand,official,10:30:00 AM,"Bus Stand, Jaipur"
+10,Traffic jam reported on NH-21 due to truck breakdown,social,10:35:00 AM,"NH-21, Jaipur"
+11,Traffic police confirms vehicle breakdown on NH-21,official,10:40:00 AM,"NH-21, Jaipur"
+12,Traffic cleared on NH-21,official,10:50:00 AM,"NH-21, Jaipur"
+13,Water level rising near low-lying area after heavy rain,social,11:00:00 AM,"Mansarovar, Jaipur"
+14,Local residents report waterlogging in Mansarovar,social,11:05:00 AM,"Mansarovar, Jaipur"
+15,Municipal team deployed to inspect waterlogging,official,11:15:00 AM,"Mansarovar, Jaipur"
+16,Single post claiming city-wide flood,social,11:20:00 AM,Jaipur
+17,Unverified claim of major flood spreading online,social,11:22:00 AM,Jaipur
+18,Minor protest reported near university gate,social,11:30:00 AM,"University Road, Jaipur"
+19,Small group protesting peacefully near campus,social,11:32:00 AM,"University Road, Jaipur"
+20,Medical emergency reported at metro station,social,11:40:00 AM,"Metro Station, Jaipur"
+21,Ambulance dispatched to metro station,emergency,11:42:00 AM,"Metro Station, Jaipur"
+22,Person stabilized and taken to hospital,official,11:50:00 AM,"Metro Station, Jaipur"
